@@ -1,9 +1,8 @@
 // LEGGERE LE ISTRUZIONI NEL FILE README.md
 
-// Import di Classi Java necessarie al funzionamento del programma
 import java.util.Scanner;
 
-// Classe principale, con metodo main
+
 class Esercizio {
 
     static class CalcoloPeso {
